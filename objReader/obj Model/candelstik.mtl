@@ -1,0 +1,24 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl steel
+	 Ka 0 0 0
+	 Kd 0.152941 0.262745 0.239216
+	 Ks 0.0688235 0.118235 0.107647
+	 illum 2
+	 Ns 11.3137
+newmtl candle
+	 Ka 0 0 0
+	 Kd 0.980392 0.929412 0.811765
+	 Ks 0.147059 0.139412 0.121765
+	 illum 2
+	 Ns 5.65685
+newmtl knot
+	 Ka 0 0 0
+	 Kd 0.137255 0.0862745 0.0705882
+	 Ks 0.015098 0.0094902 0.00776471
+	 illum 2
+	 Ns 11.3137
